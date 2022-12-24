@@ -1,5 +1,7 @@
 # Next Sample for Deploy Now
 
+https://home-5011303229.app-ionos.space/
+
 This is a basic Static Site Generation Next website. You can use it as a starting point for your project or to give [Deploy Now](https://www.ionos.com/hosting/deploy-now) a try. This project does not require Server Side Rendering.
 
 ## How to deploy it 
